@@ -1,0 +1,92 @@
+html {
+  background: url(img/793-main-bg.jpg) no-repeat center fixed;
+  background-size: cover;
+  padding: 10px;
+}
+
+body {
+  margin: auto;
+  width: 700px;
+  text-align: center;
+  color: white;
+  opacity: 0.8;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.quest {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+  padding: 10px;
+  font-size: 20px;
+}
+
+article {
+  margin: auto;
+  width: 700px;
+  background-color: white;
+  color: black;
+  opacity: 0.9;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+h1 {
+  color: black;
+  text-decoration: solid;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.background {
+  background-color: rgb(49, 49, 49);
+  color: white;
+  width: 500px;
+  margin: auto;
+  border-radius: 30px;
+  font-size: 30px;
+}
+
+li {
+  font-size: 25px;
+}
+
+button {
+  border-radius: 20px;
+  background-color: grey;
+  text-decoration: none;
+  width: 70px;
+}
+
+button:hover {
+  font-weight: bold;
+  width: 70px;
+}
+
+.size-matters {
+  font-size: 25px;
+}
+
+.about {
+  color: black;
+  font-size: 30px;
+}
+
+.about:hover {
+  color: black;
+  font-size: 30px;
+}
